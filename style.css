@@ -18,7 +18,8 @@ div{
 
 .div-with-bg{
   background-image: url("../images/mountain_goat.jpg");
-  width: 500px;
   background-repeat: no-repeat;
+    background-position: center; 
+    position: relative;
   
 }
