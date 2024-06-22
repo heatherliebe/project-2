@@ -20,6 +20,6 @@ div{
 {
   background-image: url("../images/mountain_goat.jpg");
   background-repeat: no-repeat;
-  background-postion: center;
+  position: center;
   
 }
