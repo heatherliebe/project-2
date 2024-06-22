@@ -20,6 +20,7 @@ div{
 {
   background-image: url("../images/mountain_goat.jpg");
   background-repeat: no-repeat;
-  position: center;
-  
+  width: 1500px;
+  height: 550px;
+  background-size: cover;
 }
