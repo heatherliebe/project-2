@@ -23,5 +23,5 @@ div{
     background-position: center; 
     max-height: 1000px;
     width: 700px;
-    background-size: contain;
+    background-size: cover;
 }
