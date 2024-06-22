@@ -22,5 +22,6 @@ div{
     background-repeat: no-repeat;
     background-position: center; 
     position: relative;
+    height: 300px;
 
 }
