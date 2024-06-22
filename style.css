@@ -21,7 +21,5 @@ div{
     background-image: url("../images/mountain_goat.jpg");
     background-repeat: no-repeat;
     background-position: center; 
-    max-height: 1000px;
-    width: 700px;
-    background-size: cover;
+    
 }
