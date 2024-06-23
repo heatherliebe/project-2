@@ -15,7 +15,7 @@ div{
  padding: 10px;
 }
 
-.div-with-bg
+div-with-bg
 {
   background-image: url("../images/mountain_goat.jpg");
   background-repeat: no-repeat;
