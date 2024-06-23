@@ -31,7 +31,7 @@ div{
   background-image: url("https://images.unsplash.com/photo-1623692916412-4bff16944331?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkwODcxOTJ8&ixlib=rb-4.0.3&q=85");
  background-repeat: no-repeat;
  background-position: center;
- background-size: cover;
+ background-size: contain;
 
 
 }
